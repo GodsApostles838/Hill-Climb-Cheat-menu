@@ -1,5 +1,7 @@
 # Hill Climb Cheat Menu
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GodsApostles838)](https://github.com/GodsApostles838/github-readme-stats)
+
+This menu is written in c#
+
 **Instructions:**
 
 1. **Unzip Folder:** Unzip the downloaded folder to your preferred location.
